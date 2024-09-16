@@ -1,0 +1,39 @@
+<?xml version = "1.0"?>
+<contact-info>
+   <contact>
+      <type>Website</type>
+      <url>https://adalab.es/</url>
+   </contact>
+
+   <contact>
+      <type>Mail</type>
+      <address>hola@adalab.es</address>
+   </contact>
+
+   <socialmedia>
+      <profile>
+         <name>Twitter</name>
+         <url>https://twitter.com/Adalab_Digital</url>
+      </profile>
+      
+      <profile>
+         <name>Facebook</name>
+         <url>https://www.facebook.com/AdalabDigital/</url>
+      </profile>
+
+      <profile>
+         <name>Linkedin</name>
+         <url>https://www.linkedin.com/school/adalab/</url>
+      </profile>
+      
+      <profile>
+         <name>Instagram</name>
+         <url>https://www.instagram.com/adalab_digital/</url>
+      </profile>
+
+      <profile>
+         <name>Youtube</name>
+         <url>https://www.youtube.com/channel/UCYmHARvTgsUrm5YdSYwzmDg</url>
+      </profile>
+   </socialmedia>
+</contact-info>
